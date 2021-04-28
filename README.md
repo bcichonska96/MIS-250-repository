@@ -1,1 +1,1 @@
-print("Hello MIS 250 friends!")
+Hello MIS 250 friends
