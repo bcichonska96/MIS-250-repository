@@ -1,1 +1,1 @@
-# MIS-250-repository
+print("Hello MIS 250 friends!")
